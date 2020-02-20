@@ -2,6 +2,8 @@
 ### Contact Information:
 ### 310-350-1385
 ### williamsitv@yahoo.com
+### https://www.linkedin.com/in/richmwilliams/
+### https://rwilliam4444.github.io/Projects/
 ### Torrance, CA. 90504
 
 ---
