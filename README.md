@@ -1,1 +1,1 @@
-## Developer Portfolio Landing Page Template
+## Richard's Developer Portfolio Landing Page Template
