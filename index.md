@@ -2,8 +2,6 @@
 ### Contact Information:
 ### 310-350-1385
 ### williamsitv@yahoo.com
-### https://www.linkedin.com/in/richmwilliams/
-### https://rwilliam4444.github.io/Projects/
 ### Torrance, CA. 90504
 
 ---
@@ -19,6 +17,7 @@
 [Project 3 - Ansible CIS Compliance for 2019 Servers](https://github.com/rwilliam4444/ansible-collection-compliance-windows-2019)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
 ---
 
 ### Additional Category Listing of Projects below:
@@ -31,7 +30,10 @@
 
 ---
 
+### Additional Links:
 
+- [Linkedin profie](https://www.linkedin.com/in/richmwilliams/)
+- [github projects](https://rwilliam4444.github.io/Projects/)
 
 ---
 
