@@ -1,5 +1,5 @@
 # Project Portfolio
-### Richard M. Williams
+### Contact Information:
 ### 310-350-1385
 ### williamsitv@yahoo.com
 ### Torrance, CA. 90504
