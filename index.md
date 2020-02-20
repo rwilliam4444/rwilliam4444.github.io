@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/rwilliam4444/ansible-collection-compliance-windows-2012)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
