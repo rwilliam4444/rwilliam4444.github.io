@@ -35,6 +35,7 @@
 - [Linkedin profie](https://www.linkedin.com/in/richmwilliams/)
 - [github projects](https://rwilliam4444.github.io/Projects/)
 - [github main profile page](https://github.com/rwilliam4444/)
+- [gihub pdf resume page](https://rwilliam4444.github.io/resume/)
 
 ---
 
