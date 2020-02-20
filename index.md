@@ -1,4 +1,8 @@
-## Project Portfolio
+# Project Portfolio
+### Richard M. Williams
+### 310-350-1385
+### williamsitv@yahoo.com
+### Torrance, CA. 90504
 
 ---
 
@@ -15,7 +19,7 @@
 
 ---
 
-### Category Name 2
+### Additional Category Listing of Projects below:
 
 - [Project 1 - Ansible Windows Event Log Manager](https://github.com/rwilliam4444/ansible-role-windows-event-log-manager)
 - [Project 2 - Ansible Windows Event Log Archiver Zip Move To Eventlogs](https://github.com/rwilliam4444/ansible-role-event-log-archiver-zip-move-to-eventlogs-folder)
