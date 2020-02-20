@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://github.com/rwilliam4444/ansible-collection-compliance-windows-2016)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://github.com/rwilliam4444/ansible-role-event-log-archiver-zip-move-to-eventlogs-folder)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
