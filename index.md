@@ -36,6 +36,6 @@
 - [github projects](https://rwilliam4444.github.io/Projects/)
 - [github main profile page](https://github.com/rwilliam4444/)
 - [gihub pdf resume page](https://rwilliam4444.github.io/resume/)
-
+- [gihub pdf references page](https://rwilliam4444.github.io/references/)
 ---
 
